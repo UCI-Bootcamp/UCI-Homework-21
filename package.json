@@ -1,0 +1,26 @@
+{
+  "name": "UCI-Homework-21",
+  "version": "1.0.0",
+  "description": "21: Google Books React Search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UCI-Bootcamp/UCI-Homework-21.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UCI-Bootcamp/UCI-Homework-21/issues"
+  },
+  "homepage": "https://github.com/UCI-Bootcamp/UCI-Homework-21#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
